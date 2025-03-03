@@ -1,6 +1,6 @@
 ---
 title: "Data Visualisation"
-author: ""
+author: "Jules Peter"
 format:
   html:
     embed-resources: true
