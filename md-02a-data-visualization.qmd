@@ -359,8 +359,11 @@ If you are interested in working with spatial data in R, then we recommend the f
 ### Stage, Commit & Push to GitHub
 
 1.  Open the Git pane in RStudio. It's in the top right corner in a separate tab.
+
 2.  **Stage** your changes by checking appropriate box next to all files (if you select one file with your mouse, you can then highlight them all with Ctrl + A on your keyboard and check all boxes)
+
 3.  Write a meaningful commit message (e.g. "Completed homework assignment 02.) in the **Commit message** box
+
 4.  Click **Commit**. Note that every commit needs to have a commit message associated with it.
 
 ### Open an issue on GitHub
